@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Markee68Q or itz_Markee (Twitch)
 - 👀 I’m interested in learning how to code, gaining knowledge about CyberSecurity, and becoming valuable to others.
-- 🌱 I’m currently learning Full-Stack Software Engineer Career Path(Codecademy), CyberSecurity(WGU)
+- 🌱 I’m currently learning Full-Stack Software Engineer Career Path(Codecademy), and CyberSecurity(WGU)
 - 💞️ I’m looking to collaborate on Twitch API, Audio Software Tools, 
 - 📫 How to reach me on Discord: itzMarkee⚡#7634
 
